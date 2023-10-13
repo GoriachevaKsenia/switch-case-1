@@ -1,7 +1,7 @@
 ﻿#include <stdio.h>
 #include <math.h>
 #include <locale.h>
-
+//
 int main()
 {
     setlocale(2, "rus");
